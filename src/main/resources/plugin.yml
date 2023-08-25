@@ -1,0 +1,24 @@
+name: LightWorlds
+version: '1.0'
+main: de.justin.lightworlds.LightWorlds
+api-version: '1.20'
+load: POSTWORLD
+commands:
+  lightworlds:
+    description: Lists all subcommands to this Plugin
+    aliases: [lw]
+permissions:
+  lightworlds.help:
+    default: op
+  lightworlds.teleport:
+    default: op
+  lightworlds.create:
+    default: op
+  lightworlds.delete:
+    default: op
+  lightworlds.list:
+    default: op
+  lightworlds.players:
+    default: op
+  lightworlds.info:
+    default: op

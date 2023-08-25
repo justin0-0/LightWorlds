@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LightWorlds:jar">
+    <output-path>$PROJECT_DIR$/../../Minecraft Server/Universe Test/plugins</output-path>
+    <root id="archive" name="LightWorlds.jar">
+      <element id="module-output" name="LightWorlds" />
+    </root>
+  </artifact>
+</component>
